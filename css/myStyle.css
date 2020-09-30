@@ -1,0 +1,44 @@
+/* styles for my website*/
+
+body {
+background-color: #049169;
+font-family: ariel, tahoma, sans-serif;
+font-size: 75%;
+}
+
+
+h1{ 
+color: #9faba7;
+margin: auto;
+}
+
+#wrapper{
+color: #9faba7;
+font-family:  Arial, Verdana, Helvetica, sans-serf;
+font-size:	  20px;
+background-color:  #1a1c1b;
+margin: auto;
+padding: 15px;
+}
+
+#container{
+background-color: white;
+width: 60%;
+margin: auto;
+padding: 10px;
+}
+
+header{
+background-color: #ebdaed;
+padding: 10px;
+}
+.mainFooter
+{
+font-size:	 15px;
+color:   #606;
+}
+
+p 
+{
+font-size: 16px;
+}
