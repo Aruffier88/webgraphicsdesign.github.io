@@ -1,0 +1,33 @@
+/* styles for unit 1 project*/
+
+body 
+{
+color: #09000d;
+background-color: #ebd0f7;
+font-family: ariel, tahoma, sans-serif;
+font-size: 75%;
+}
+
+h1
+{ 
+color: #9faba7;
+margin: auto;
+}
+
+header
+{
+color: #09000d;
+background-color: #ebd0f7;
+padding: 10px;
+}
+
+.mainFooter
+{
+font-size: 15px;
+color: #09000d;
+}
+
+p 
+{
+font-size: 16px;
+}
